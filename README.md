@@ -1,19 +1,10 @@
-# AdvancedPlayfab
-
-AdvancedPlayfab is a script that well, is advanced for playfab.
+![AdvancedPlayFab__2_-removebg-preview](https://user-images.githubusercontent.com/125162270/231316691-fdf08a86-1339-4960-b28e-a8f5d64ba26a.png)
 
 # Instructions
 Here are some instructions:
 
 
 1. Drag the Advanced Playfab Prefab into the Hierarchy
-2. For CurrencyKey, put in the Currency Code that you put into Playfab under Economy > Currency (Legacy)
-3. For Catalog, just put in your catalogs name located in Playfab under Economy > Catalogs (Legacy)
-4. For CurrencyText, put in a TextMeshPro game object
-5. For EnableItems, put under your special items, such as Moderator Cosmetics
-6. For DisableItems, you can put like a mod door, so if the player has the mod door in Playfab, it will be disabled on start
-7. For BannedItems, put the items you want to be enabled on ban, for example, a red cube
-8. For BanTime and BanReason, well you already know, just put in 2 textmeshpros
-9. For NamingPC, put in the NameScript for your Naming Computer (since this is ment for Gtag Fangames, you will need to modify the script if needed)
+2. Fill out the variables, not everything is required!
 
-MAKE SURE YOU HAVE PROBUILDER IMPORTED ASWELL AS TEXTMESHPRO
+MAKE SURE YOU HAVE PROBUILDER, PHOTON PUN AND VR, PLAYFAB, AND TEXTMESHPRO IMPORTED
