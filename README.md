@@ -42,6 +42,11 @@ To request for the players inventory (Check the players inventory for new/delete
 If there is ever a time where AdvancedPlayfab is not automatically starting, you may use this line of code in a script:  
 ![image](https://github.com/Japiter/AdvancedPlayfab/assets/125162270/b2b0e9b3-66ec-4382-9408-d8b1e3f068c8)
 
+### Changing Username
+If you have a custom Naming script, you can save the players username through this line:  
+![image](https://github.com/Japiter/AdvancedPlayfab/assets/125162270/cacf26ed-5a1e-4496-84e9-5f39edfcb9fe)  
+Inside the parenthesis, put the name string or variable of the Script.
+
 # Help
 If any help is needed, you may email me [here](mailto:advancedplayfab@gmail.com).  
 You can also resort to unofficial communities to ask for help.
