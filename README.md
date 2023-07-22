@@ -17,8 +17,8 @@ Catalogs (If multiple)
 Version Checker Enabled  
 Game Version Title Key  
 Game Version  
-Ban String  
 Ban Status Enabled  
+Ban String  
 Ban Reason  
 Ban Time  
 Naming PC  
