@@ -17,10 +17,10 @@ Catalogs (If multiple)
 Version Checker Enabled  
 Game Version Title Key  
 Game Version  
+Ban String  
 Ban Status Enabled  
 Ban Reason  
 Ban Time  
-Saving Enabled  
 Naming PC  
 
 Once that is finished, you are all set! Any items I did not mention are optional, but reccomended you fill out.
