@@ -47,6 +47,16 @@ If you have a custom Naming script, you can save the players username through th
 ![image](https://github.com/Japiter/AdvancedPlayfab/assets/125162270/cacf26ed-5a1e-4496-84e9-5f39edfcb9fe)  
 Inside the parenthesis, put the name string or variable of the Script.
 
+### Adding/Subtracting Currency
+To add/subtract currency from a player, put the following line of code into your script:  
+![image](https://github.com/SolarisDev09/AdvancedPlayfab/assets/125162270/8f27e1d7-84ae-4b77-895e-ffad249ce6ab)  
+Set amount to a integer or a variable, and for the blank space, put "Add" or "Subtract" depending on what you want.  
+
+Example:  
+![image](https://github.com/SolarisDev09/AdvancedPlayfab/assets/125162270/ab986f18-0955-4610-bda6-2c186fcb3b4b) (Found in the AddCoins script)
+
+
+
 # Help
 If any help is needed, you may email me [here](mailto:advancedplayfab@gmail.com).  
 You can also resort to unofficial communities to ask for help.
